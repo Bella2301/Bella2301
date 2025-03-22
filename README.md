@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm Beth
+
+**I'm Beth**
 
 Welcome to my GitHub profile! I'm a passionate web developer, eager to learn and grow in the tech world. Feel free to check out my repositories and connect with me!
 
@@ -20,14 +21,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on a node.js project.
- 🌱 I’m currently learning backend development
+-🔭 I’m currently working on a node.js project.
+-🌱 I’m currently learning backend development
 
 
 ## 🚀 Skills & Technologies:
 ![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.JS](https://img.shields.io/nodeping/status/:checkUuid
+)
 
 
 ## 🌎 Find me around the web:
