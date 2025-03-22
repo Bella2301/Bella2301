@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bella2301&" alt="Bella2301" /></p>
+
 
 
 ## 🌎 Find me around the web:
