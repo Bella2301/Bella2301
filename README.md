@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - [Project 3](https://github.com/Bella2301/dsaexam)
 
 ## 📊 GitHub Stats:
-![Beth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bella2301&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Beth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bella2301&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
 
 
 
