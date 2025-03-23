@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer, eager to learn and grow in the tech world. Feel free to check out my repositories and connect with me!
 
-📫 How to reach me: nate85here@gmail.com
+📫 How to reach me: nate85here@gmail.com 
 
 
 <!--
